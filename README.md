@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @merlecal
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+merlecal/merlecal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---$ curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com/users/codertocat -I
+HTTP/1.1 200 OK
+X-OAuth-Scopes: repo, user
+X-Accepted-OAuth-Scopes: user
